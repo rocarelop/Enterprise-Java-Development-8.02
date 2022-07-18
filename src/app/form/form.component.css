@@ -1,0 +1,22 @@
+.error-msg {
+  color: #9b5de5;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+form .ng-invalid.ng-touched{
+  border: 3px solid violet;
+}
+
+form select,
+form input {
+  margin: 0.5rem 0;
+}
+
+button{
+  margin: 0.5rem 0;
+  color: #3a1667;
+  background-color: violet;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
